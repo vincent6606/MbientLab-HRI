@@ -1,5 +1,3 @@
 # MbientLab-HRI
 
-L_100 and R_100 are data files for walking at 100 bpm 
-
-The other files are stationary data 
+A platform for Human-Robot Interaction research incoporating IMU sensors from MbientLabs. Data collected is used to study human collaboration and coordination for robotics research. This is a collaboration with the Mechanical and Aerospace Engineering Department and the Physics Department at Cornell University.
