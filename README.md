@@ -4,3 +4,6 @@ A platform for Human-Robot Interaction research incoporating IMU sensors from Mb
 
 Vincent Chen (2016)
 ![Alt text](MbientLab-HRI/live-graph-test.gif?raw=true "Title")
+https://github.com/vincent6606/MbientLab-HRI/blob/master/live-graph-test.gif
+
+![](https://github.com/vincent6606/MbientLab-HRI/blob/master/live-graph-test.gif)
